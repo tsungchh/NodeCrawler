@@ -1,5 +1,5 @@
-###　　　　　　　　　　　　Author:Tsung Chun Hsu
-###　　　　　　　　　 E-mail:tsungchh@gmail.com
+###　　Author:Tsung Chun Hsu
+###　　E-mail:tsungchh@gmail.com
 
 ===========================
 
